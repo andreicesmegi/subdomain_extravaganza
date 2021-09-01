@@ -10,7 +10,7 @@ echo "##########################################################################
 echo "|                       SUBDOMAIN EXTRAVAGANZA                           |"
 echo "##########################################################################"
 
-echo "Please, inform the domain bellow:"
+echo "Please, inform the domain below:"
 read domain
 
 if [$domain == ""]
